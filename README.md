@@ -1,5 +1,4 @@
-# testing-article
-
+# jest-testing-article
 ## Project setup
 ```
 npm install
